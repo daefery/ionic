@@ -1,0 +1,8 @@
+{
+  "name": "cobalagi",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "72c33cc0"
+}
